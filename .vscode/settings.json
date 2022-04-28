@@ -1,0 +1,8 @@
+{
+    "psi-header.variables": [
+		["projectCreationYear", "2014"],
+        ["projectname", "Stitcher"],
+        ["license", "MIT"],
+        ["licenseURL", "https://opensource.org/licenses/MIT"]
+],
+}
