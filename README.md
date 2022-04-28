@@ -61,6 +61,6 @@ julia> Stitch()
 
 Stitcher is provided under MIT License: https://opensource.org/licenses/MIT
 
-# No warrantee and no Guarrantee
+# No warrantee and No guarrantee
 
 The author hereby provides no warrantee of the utility and no guarantee for trading success.
