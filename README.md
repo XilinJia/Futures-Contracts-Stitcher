@@ -61,6 +61,12 @@ julia> Stitch()
 
 Stitcher is provided under MIT License: https://opensource.org/licenses/MIT
 
+# Used Libraries and their licenses
+
+[Julia](https://julialang.org/)
+[CSV](https://juliapackages.com/p/csv)
+[DataFrames](https://juliapackages.com/p/dataframes)
+
 # No warrantee and No guarrantee
 
 The author hereby provides no warrantee of the utility and no guarantee for trading success.
