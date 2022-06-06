@@ -77,7 +77,7 @@ function Stitch(Instr=""; StartDate="2010-01-01", EndDate="2050-12-31", AdjMetho
             else
                 println("Roll date: ", i, " ", df[!, :Date][i], " ", CurContract, " ", df[!, :Contract][i])
                 push!(rollrows, i)
-                for j=i:i+nfiles+1
+                for j=i:i+12+1
                     if df[!, :Contract][j] == CurContract
                         curRow=j
                         curDate = df[!, :Date][curRow]
